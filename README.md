@@ -11,7 +11,7 @@ AWS secret access key
 Public IP in the security groups section in main.tf file.
 ### Project Files
 main.tf - terraform IAC file
-tracer.py - Web service code
+app.py - Web service code
 script.sh - bash script that will install all dependencies and starts the service
 mykey and mykey.pub - Keys used for remote connection
 ### Caveats
